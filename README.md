@@ -19,8 +19,8 @@ La manera en la que se divide el repositorio es la siguiente:
     - LogRegression_NoLibraries.ipynb
     - LogRegression_NoLibraries.pdf
   - Con framework:
-    - LogRegression_WithLibraries.ipynb
-    - LogRegression_WithLibraries.pdf
+    - LogReg_WithLibraries.ipynb
+    - LogReg_WithLibraries.pdf
 
 - **📝 Portafolio de Análisis**:
   - Por hacer
