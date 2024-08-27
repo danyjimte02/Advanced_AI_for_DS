@@ -23,4 +23,4 @@ La manera en la que se divide el repositorio es la siguiente:
     - LogRegression_WithLibraries.pdf
 
 - **📝 Portafolio de Análisis**:
-  - Por hacer
+  - Momento_de_Retroalimentación_Reto_Análisis_contexto_y_normatividad.pdf
