@@ -54,11 +54,11 @@ La manera en la que se divide el repositorio es la siguiente:
   
 ### 📂 **Reto**
 
-- `Reto_Titanic_Pre.ipynb`: Implementación preliminar para el reto Titanic.
+- `Reto_Titanic_Pre.ipynb`: Implementación preliminar para el reto Titanic - Machine Learning from Disaster.
 - Resultados finales:
-  - `1_Procesamiento_de_Datos.ipynb`: Procesamiento inicial de los datos del reto Titanic.
-  - `3_Neural_Network.ipynb`: Implementación de una red neuronal para el reto Titanic.
+  - `1_Procesamiento_de_Datos.ipynb`: Procesamiento inicial de los datos del reto del Titanic.
+  - `3_Neural_Network.ipynb`: Implementación de una Red Neuronal para el reto del Titanic.
   - `4_Random_Forests.ipynb`: Implementación de un modelo Random Forest.
-  - `5_Logistic_Regression.ipynb`: Implementación de un modelo de regresión logística.
-  - `test_cleaned.csv`: Datos de prueba del reto Titanic (limpios).
-  - `train_cleaned.csv`: Datos de entrenamiento del reto Titanic (limpios).
+  - `5_Logistic_Regression.ipynb`: Implementación de un modelo de Regresión Logística.
+  - `test_cleaned.csv`: Datos de prueba del reto del Titanic (limpios).
+  - `train_cleaned.csv`: Datos de entrenamiento del reto del Titanic (limpios).
