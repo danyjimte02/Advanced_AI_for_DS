@@ -9,6 +9,8 @@ Igualmente, se pueden encontrar avances del reto *Titanic - Machine Learning fro
 La manera en la que se divide el repositorio es la siguiente:
 
 ### 📝 **Portafolio de Análisis**
+---
+
 - **Estadística**:
   - `act1_para_empezar.pdf`: Introducción a las variables y medidas estadísticas.
   - `act2_variable_cont.pdf`: Análisis de variables continuas.
