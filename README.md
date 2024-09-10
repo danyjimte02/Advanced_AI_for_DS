@@ -21,13 +21,13 @@ La manera en la que se divide el repositorio es la siguiente:
   - `AnalisisReporteModelo.ipynb`
   - `AnalisisReporteModelo.pdf`
   - `Valhalla23.csv`: Dataset utilizado en las actividades.
-  - **Correcciones**:
+  - Correcciones:
     - `AnalisisReporteModelo_Corregido.ipynb`
     - `AnalisisReporteModelo_Corregido.pdf`
 - **Reto**:
   - `Momento_de_Retroalimentación_Reto_Análisis_contexto_y_normatividad.pdf`
   - `Reporte_Ética_y_Normatividad.pdf`
-  - **Correciones**:
+  - Correciones:
   - `Momento_de_Retroalimentación_Reto_Análisis_contexto_y_normatividad - Corregido.pdf`
 
 ## 🛠️ **Portafolio de Implementación**
@@ -44,7 +44,7 @@ La manera en la que se divide el repositorio es la siguiente:
   - `LogRegression_NoLibraries.pdf`
   - `LogRegression_WithLibraries.ipynb`: Implementación de regresión logística con librerías.
   - `LogRegression_WithLibraries.pdf` 
-  - **Correcciones**:
+  - Correcciones:
     - `LogRegression_NoLibraries_Corregido.ipynb`
     - `LogRegression_NoLibraries_Corregido.pdf`
     - `LogRegression_WithLibraries_Corregido.ipynb`
@@ -52,7 +52,7 @@ La manera en la que se divide el repositorio es la siguiente:
   
 ## 📂 **Reto**
 - `Reto_Titanic_Pre.ipynb`: Implementación preliminar para el reto Titanic.
-- `Resultados finales`
+- Resultados finales:
   - `1_Procesamiento_de_Datos.ipynb`: Procesamiento inicial de los datos del reto Titanic.
   - `3_Neural_Network.ipynb`: Implementación de una red neuronal para el reto Titanic.
   - `4_Random_Forests.ipynb`: Implementación de un modelo Random Forest.
