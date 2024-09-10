@@ -9,7 +9,6 @@ Igualmente, se pueden encontrar avances del reto *Titanic - Machine Learning fro
 La manera en la que se divide el repositorio es la siguiente:
 
 ### 📝 **Portafolio de Análisis**
----
 
 - **Estadística**:
   - `act1_para_empezar.pdf`: Introducción a las variables y medidas estadísticas.
@@ -33,6 +32,7 @@ La manera en la que se divide el repositorio es la siguiente:
   - `Momento_de_Retroalimentación_Reto_Análisis_contexto_y_normatividad - Corregido.pdf`
 
 ### 🛠️ **Portafolio de Implementación**
+
 - **Estadística**:
   - `act11_regresion_con_interacciones.pdf`: Análisis de regresión con interacciones.
   - `act12_reg_lineal_errores.pdf`: Análisis de regresión lineal y errores de estimación.
@@ -53,6 +53,7 @@ La manera en la que se divide el repositorio es la siguiente:
     - `LogRegression_WithLibraries_Corregido.pdf`
   
 ### 📂 **Reto**
+
 - `Reto_Titanic_Pre.ipynb`: Implementación preliminar para el reto Titanic.
 - Resultados finales:
   - `1_Procesamiento_de_Datos.ipynb`: Procesamiento inicial de los datos del reto Titanic.
