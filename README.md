@@ -46,7 +46,7 @@ La manera en la que se divide el repositorio es la siguiente:
   - `LogRegression_NoLibraries.pdf`
   - `LogRegression_WithLibraries.ipynb`: Implementación de regresión logística con librerías.
   - `LogRegression_WithLibraries.pdf` 
-  - Correcciones:
+  - **Correcciones**:
     - `LogRegression_NoLibraries_Corregido.ipynb`
     - `LogRegression_NoLibraries_Corregido.pdf`
     - `LogRegression_WithLibraries_Corregido.ipynb`
