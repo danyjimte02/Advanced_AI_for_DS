@@ -34,7 +34,7 @@ La manera en la que se divide el repositorio es la siguiente:
 ### 🛠️ **Portafolio de Implementación**
 
 - **Estadística**:
-  - `act11_regresion_con_interacciones.pdf`: Análisis de regresión con interacciones.
+  - `act11_regresion_con_interacciones.pdf`: Análisis de regresión lineal con interacciones.
   - `act12_reg_lineal_errores.pdf`: Análisis de regresión lineal y errores de estimación.
   - `act7_int_confianza.pdf`: Intervalos de confianza.
   - `act8_pruebas_hip.pdf`: Pruebas de hipótesis.
