@@ -3,7 +3,7 @@
 ---
 
 Este repositorio forma parte de la especialización en Inteligencia Artificial Avanzada para la Ciencia de Datos de la que formo parte. 
-Aquí se pueden encontrar actividades relacionadas con conceptos estadísticos, manejo de datos, y la implementación de algoritmos de Machine Learning, tanto con librerías como sin ellas. 
+Aquí se pueden encontrar actividades relacionadas con conceptos estadísticos aplicados en R, manejo de datos, y la implementación de algoritmos de Machine Learning, tanto con librerías como sin ellas. 
 Igualmente, se puede encontrar la solución del reto propuesto por Kaggle: *Titanic - Machine Learning from Disaster*.
 
 La manera en la que se divide el repositorio es la siguiente:
